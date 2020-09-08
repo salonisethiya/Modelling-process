@@ -1,0 +1,23 @@
+Practical example. Hypothesis testing.,,,,,,,,,
+Homework,,,,,,,,,
+,,,,,,,,,
+,"With the help of the new worksheets, it will be easier for you to calculate sample statistics.",,,,,,,,
+Task:,"Using the same methodology as in the lecture, find if there is pay gap based on Gender.",,,,,,,,
+,,,,,,,,,
+Solution:,"Null hypothesis- mean of male salary=mean of female salary
+Applied 2-sample t-test here.
+Take some sample values from the data.
+alpha is taken as 0.05
+output values:
+t=1.15
+degree of freedom=28
+critical value=1.7
+p-value=0.25
+t<=critical value and also p>alpha, thus it implies we will accept our null hypotheis.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
